@@ -1,0 +1,18 @@
+\contentsline {chapter}{\numberline {1}Marco Teórico}{4}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Introducción}{7}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Cuerpo de Trabajo}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Objetivos Generales}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Objetivos Específicos}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Materiales}{8}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Desarrollo}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Circuitos Propuestos}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Circuitos Desarrollados}{11}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Cuestionario}{16}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Circuito 9}{16}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Circuito 10}{16}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Circuito 11}{17}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Conclusiones}{18}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Referencias}{19}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Anexos}{20}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Datos de los materiales usados}{20}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Alcance de la aplicación de este laboratorio a futuro}{22}{section.8.2}%

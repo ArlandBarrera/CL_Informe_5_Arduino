@@ -1,0 +1,51 @@
+\textbf{Arduino}
+
+Arduino es una plataforma de hardware libre basada en una sencilla placa con un microcontrolador que se puede programar mediante el lenguaje de programación Arduino, una variante simplificada de C/C++. Es ideal para prototipos electrónicos y proyectos educativos, ya que facilita la integración de componentes electrónicos como sensores, actuadores y dispositivos de comunicación. Las placas Arduino pueden interactuar con el entorno a través de pines de entrada y salida digitales o analógicos, que permiten recibir señales y controlar dispositivos conectados.
+
+En este contexto, se utilizan varios periféricos que pueden ser controlados desde el Arduino, como LEDs, buzzers (activos y pasivos), y otros elementos electrónicos. Su fácil manejo y flexibilidad convierten a Arduino en una herramienta potente tanto para principiantes como para ingenieros avanzados que desarrollan prototipos o aplicaciones en áreas como domótica, robótica y el Internet de las Cosas (IoT).
+
+\textbf{Buzzers Activos y Pasivos}
+
+Los buzzers son dispositivos piezoeléctricos que generan sonido. Existen dos tipos principales de buzzers utilizados en proyectos de Arduino: los \emph{\textbf{activos}} y los \emph{\textbf{pasivos}}.
+
+\begin{itemize}
+  \item \textbf{Buzzer Activo:} Un buzzer activo contiene un oscilador interno que genera el sonido. Solo necesita una señal de encendido/apagado desde el Arduino para funcionar, lo que simplifica su uso, ya que no requiere una señal de frecuencia de entrada. Esto lo hace ideal para aplicaciones donde se necesita simplemente activar una alerta sonora sin generar una melodía específica o controlar la frecuencia de sonido.
+  \item \textbf{Buzzer Pasivo:} A diferencia del activo, el buzzer pasivo no tiene oscilador interno, por lo que necesita una señal de frecuencia externa para generar sonido. Este tipo de buzzer ofrece mayor versatilidad, ya que permite generar tonos específicos, melodías o variaciones de frecuencia, lo cual es útil en proyectos más complejos como la generación de alarmas con variación de tono o la reproducción de pequeñas melodías. Para utilizar un buzzer pasivo con Arduino, se utiliza la función \emph{tone()}, que permite generar una señal de frecuencia variable para controlar el sonido.
+\end{itemize}
+
+\textbf{LEDs (Diodos Emisores de Luz)}
+
+Los \textbf{LEDs} son dispositivos semiconductores que emiten luz cuando son atravesados por una corriente eléctrica. Son ampliamente utilizados en proyectos de electrónica debido a su eficiencia energética, tamaño compacto, durabilidad y bajo costo. Los LEDs pueden emitir luz en diferentes colores y se usan en diversas aplicaciones como indicadores, displays o iluminación.
+
+Un LED tiene dos terminales: el \textbf{ánodo} (positivo) y el \textbf{cátodo} (negativo). Para encender un LED, se conecta el ánodo a una fuente de corriente positiva y el cátodo a tierra, asegurándose de que la corriente sea lo suficientemente baja como para no dañar el LED. Debido a la baja corriente que soportan los LEDs, es esencial protegerlos con resistencias de limitación de corriente.
+
+\textbf{Resistencias de Protección}
+
+Las \textbf{resistencias} son componentes electrónicos que limitan el paso de la corriente en un circuito. En el caso de los LEDs, una resistencia de protección es crucial para evitar que el LED se queme por exceso de corriente. La cantidad de corriente que puede soportar un LED es limitada, generalmente unos 20 mA, y si se le aplica una corriente mayor, el componente puede dañarse.
+
+Para calcular el valor de la resistencia necesaria, se utiliza la \textbf{Ley de Ohm:}
+
+\begin{equation*}
+  R = \frac{V_f - V_{LED}}{I_{LED}}
+\end{equation*}
+
+Donde:
+
+\begin{itemize}
+  \item \textbf{$R$} es el valor de la resistencia en $\Omega$ (ohmios).
+  \item \textbf{$V_f$} es el voltaje de la fuente (por ejemplo, 5V en el caso de Arduino).
+  \item \textbf{$V_{LED}$} es el voltaje de funcionamiento del LED (generalmente entre 1.8 y 3.3V, dependiendo del color).
+  \item \textbf{$I_{LED}$} es la corriente que debe pasar por el LED (típicamente 20 mA o 0.02 A).
+\end{itemize}
+
+Una resistencia comúnmente usada para proteger LEDs es de \textbf{220 $\Omega$}, lo cual es adecuado para la mayoría de los proyectos educativos con Arduino.
+
+\textbf{Sensores y Pines de Entrada y Salida}
+
+En proyectos de Arduino, los sensores permiten recoger datos del entorno, como temperatura, luz o distancia. Los pines \textbf{digitales} de entrada y salida (I/O) permiten leer señales binarias (alto o bajo, 1 o 0), mientras que los pines \textbf{analógicos} permiten leer valores continuos, como la salida de un sensor de luz (LDR) o un potenciómetro.
+
+Los pines PWM (Pulse Width Modulation) son de gran utilidad cuando se necesita simular una señal analógica. Aunque Arduino tiene pines digitales que solo pueden estar en alto (5V) o bajo (0V), mediante PWM se puede generar una señal que simula voltajes intermedios. Este principio es usado, por ejemplo, para controlar la intensidad de un LED o variar el tono de un buzzer pasivo.
+
+\textbf{Función de Tono y Control de Sonido}
+
+La función \emph{\textbf{tone()}} de Arduino es fundamental cuando se trabaja con buzzers pasivos. Permite generar señales de frecuencia variable que controlan el sonido emitido por el buzzer. El uso de esta función es esencial para desarrollar aplicaciones de alerta sonora o para generar melodías.
