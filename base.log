@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.14)  7 OCT 2024 17:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.14)  7 OCT 2024 17:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -655,7 +655,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
  [3
 
-]
+{C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
 Chapter 1.
 (1.MarcoTeorico/marcoteorico.tex
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 12.
@@ -663,42 +663,50 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 12
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [4
 
-{C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] [5{C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]) [6]
+{C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] [5{C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]) [6]
 Chapter 2.
 (2.Introduccion/intro.tex) [7
 
 ]
 Chapter 3.
 (3.CuerpoDeTrabajo/3.1.ObjetivosGenerales/objGenerales.tex) (3.CuerpoDeTrabajo/3.2.ObjetivosEspecificos/objEspecificos.tex) (3.CuerpoDeTrabajo/3.3.Materiales/materiales.tex
-<Imagenes/materiales/buzzer_activo.jpg, id=160, 1204.5pt x 1606.0pt>
+<Imagenes/materiales/resistor_10k.jpg, id=162, 803.0pt x 803.0pt>
+File: Imagenes/materiales/resistor_10k.jpg Graphic file (type jpg)
+<use Imagenes/materiales/resistor_10k.jpg>
+Package pdftex.def Info: Imagenes/materiales/resistor_10k.jpg  used on input line 3.
+(pdftex.def)             Requested size: 80.3047pt x 80.3047pt.
+<Imagenes/materiales/buzzer_activo.jpg, id=163, 1204.5pt x 1606.0pt>
 File: Imagenes/materiales/buzzer_activo.jpg Graphic file (type jpg)
 <use Imagenes/materiales/buzzer_activo.jpg>
-Package pdftex.def Info: Imagenes/materiales/buzzer_activo.jpg  used on input line 3.
+Package pdftex.def Info: Imagenes/materiales/buzzer_activo.jpg  used on input line 9.
 (pdftex.def)             Requested size: 120.45705pt x 160.6094pt.
-) [8
+)
+Underfull \vbox (badness 6094) has occurred while \output is active []
 
- <./Imagenes/materiales/buzzer_activo.jpg>]
+ [8
+
+ <./Imagenes/materiales/resistor_10k.jpg>] [9 <./Imagenes/materiales/buzzer_activo.jpg>]
 Chapter 4.
 (4.Desarrollo/4.1.CircuitosPropuestos/cirPropuestos.tex
-<Imagenes/circPropuestos/cp_9.png, id=165, 884.55469pt x 347.79938pt>
+<Imagenes/circPropuestos/cp_9.png, id=172, 884.55469pt x 347.79938pt>
 File: Imagenes/circPropuestos/cp_9.png Graphic file (type png)
 <use Imagenes/circPropuestos/cp_9.png>
 Package pdftex.def Info: Imagenes/circPropuestos/cp_9.png  used on input line 3.
 (pdftex.def)             Requested size: 442.27626pt x 173.89926pt.
-<Imagenes/circPropuestos/cp_10.png, id=167, 877.02657pt x 351.56343pt>
+<Imagenes/circPropuestos/cp_10.png, id=174, 877.02657pt x 351.56343pt>
 File: Imagenes/circPropuestos/cp_10.png Graphic file (type png)
 <use Imagenes/circPropuestos/cp_10.png>
 Package pdftex.def Info: Imagenes/circPropuestos/cp_10.png  used on input line 9.
 (pdftex.def)             Requested size: 438.5122pt x 175.78128pt.
-<Imagenes/circPropuestos/cp_11.png, id=168, 874.76813pt x 321.45094pt>
+<Imagenes/circPropuestos/cp_11.png, id=175, 874.76813pt x 321.45094pt>
 File: Imagenes/circPropuestos/cp_11.png Graphic file (type png)
 <use Imagenes/circPropuestos/cp_11.png>
 Package pdftex.def Info: Imagenes/circPropuestos/cp_11.png  used on input line 15.
 (pdftex.def)             Requested size: 437.383pt x 160.72507pt.
-) [9
+) [10
 
  <./Imagenes/circPropuestos/cp_9.png> <./Imagenes/circPropuestos/cp_10.png>] (4.Desarrollo/4.2.CircuitosDesarrollados/cirDesarrollados.tex
-<Imagenes/circDesarrollados/cd_9_circuito.jpg, id=175, 903.375pt x 1606.0pt>
+<Imagenes/circDesarrollados/cd_9_circuito.jpg, id=182, 903.375pt x 1606.0pt>
 File: Imagenes/circDesarrollados/cd_9_circuito.jpg Graphic file (type jpg)
 <use Imagenes/circDesarrollados/cd_9_circuito.jpg>
 Package pdftex.def Info: Imagenes/circDesarrollados/cd_9_circuito.jpg  used on input line 3.
@@ -706,8 +714,8 @@ Package pdftex.def Info: Imagenes/circDesarrollados/cd_9_circuito.jpg  used on i
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10 <./Imagenes/circPropuestos/cp_11.png>]
-<Imagenes/circDesarrollados/cd_9_ejecucion.jpg, id=181, 903.375pt x 1606.0pt>
+ [11 <./Imagenes/circPropuestos/cp_11.png>]
+<Imagenes/circDesarrollados/cd_9_ejecucion.jpg, id=188, 903.375pt x 1606.0pt>
 File: Imagenes/circDesarrollados/cd_9_ejecucion.jpg Graphic file (type jpg)
 <use Imagenes/circDesarrollados/cd_9_ejecucion.jpg>
 Package pdftex.def Info: Imagenes/circDesarrollados/cd_9_ejecucion.jpg  used on input line 9.
@@ -715,8 +723,8 @@ Package pdftex.def Info: Imagenes/circDesarrollados/cd_9_ejecucion.jpg  used on 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11 <./Imagenes/circDesarrollados/cd_9_circuito.jpg>]
-<Imagenes/circDesarrollados/cd_10_circuito-ejecucion.jpg, id=186, 903.375pt x 1606.0pt>
+ [12 <./Imagenes/circDesarrollados/cd_9_circuito.jpg>]
+<Imagenes/circDesarrollados/cd_10_circuito-ejecucion.jpg, id=193, 903.375pt x 1606.0pt>
 File: Imagenes/circDesarrollados/cd_10_circuito-ejecucion.jpg Graphic file (type jpg)
 <use Imagenes/circDesarrollados/cd_10_circuito-ejecucion.jpg>
 Package pdftex.def Info: Imagenes/circDesarrollados/cd_10_circuito-ejecucion.jpg  used on input line 15.
@@ -724,8 +732,8 @@ Package pdftex.def Info: Imagenes/circDesarrollados/cd_10_circuito-ejecucion.jpg
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12 <./Imagenes/circDesarrollados/cd_9_ejecucion.jpg>]
-<Imagenes/circDesarrollados/cd_11_circuito.jpg, id=191, 1204.5pt x 1606.0pt>
+ [13 <./Imagenes/circDesarrollados/cd_9_ejecucion.jpg>]
+<Imagenes/circDesarrollados/cd_11_circuito.jpg, id=199, 1204.5pt x 1606.0pt>
 File: Imagenes/circDesarrollados/cd_11_circuito.jpg Graphic file (type jpg)
 <use Imagenes/circDesarrollados/cd_11_circuito.jpg>
 Package pdftex.def Info: Imagenes/circDesarrollados/cd_11_circuito.jpg  used on input line 21.
@@ -733,8 +741,8 @@ Package pdftex.def Info: Imagenes/circDesarrollados/cd_11_circuito.jpg  used on 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13 <./Imagenes/circDesarrollados/cd_10_circuito-ejecucion.jpg>]
-<Imagenes/circDesarrollados/cd_11_ejecucion.jpg, id=197, 1204.5pt x 1606.0pt>
+ [14 <./Imagenes/circDesarrollados/cd_10_circuito-ejecucion.jpg>]
+<Imagenes/circDesarrollados/cd_11_ejecucion.jpg, id=204, 1204.5pt x 1606.0pt>
 File: Imagenes/circDesarrollados/cd_11_ejecucion.jpg Graphic file (type jpg)
 <use Imagenes/circDesarrollados/cd_11_ejecucion.jpg>
 Package pdftex.def Info: Imagenes/circDesarrollados/cd_11_ejecucion.jpg  used on input line 27.
@@ -742,13 +750,13 @@ Package pdftex.def Info: Imagenes/circDesarrollados/cd_11_ejecucion.jpg  used on
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14 <./Imagenes/circDesarrollados/cd_11_circuito.jpg>] [15 <./Imagenes/circDesarrollados/cd_11_ejecucion.jpg>]
+ [15 <./Imagenes/circDesarrollados/cd_11_circuito.jpg>] [16 <./Imagenes/circDesarrollados/cd_11_ejecucion.jpg>]
 Chapter 5.
-(5.Cuestionario/5.1.Circuito9/cir9.tex) (5.Cuestionario/5.2.Circuito10/cir10.tex) (5.Cuestionario/5.3.Circuito11/cir11.tex [16
+(5.Cuestionario/5.1.Circuito9/cir9.tex) (5.Cuestionario/5.2.Circuito10/cir10.tex) (5.Cuestionario/5.3.Circuito11/cir11.tex [17
 
-]) [17]
+]) [18]
 Chapter 6.
-(6.Conclusiones/conclusiones.tex) [18
+(6.Conclusiones/conclusiones.tex) [19
 
 ]
 Chapter 7.
@@ -761,13 +769,13 @@ Overfull \hbox (7.8713pt too wide) in paragraph at lines 1--2
 \T1/lmr/m/n/13.5 Arduino R3. (2024). *Ar-duino prod-uct ref-er-ence man-ual. []$\T1/lmtt/m/n/13.5 https : / / docs . arduino .
  []
 
-) [19
+) [20
 
 ]
 Chapter 8.
-(8.Anexos/8.1.DataMateriales/datamateriales.tex [20
+(8.Anexos/8.1.DataMateriales/datamateriales.tex [21
 
-]) (8.Anexos/8.2.AlcanceFuturo/alcancefuturo.tex [21]) [22] (base.aux)
+]) (8.Anexos/8.2.AlcanceFuturo/alcancefuturo.tex [22]) [23] (base.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -776,17 +784,17 @@ Package rerunfilecheck Info: File `base.out' has not changed.
 (rerunfilecheck)             Checksum: 83B36168DA7C770D62116CF74458751A;2476.
  ) 
 Here is how much of TeX's memory you used:
- 21295 strings out of 474486
- 409368 string characters out of 5743755
+ 21304 strings out of 474486
+ 409685 string characters out of 5743755
  1935542 words of memory out of 5000000
- 43054 multiletter control sequences out of 15000+600000
+ 43061 multiletter control sequences out of 15000+600000
  606692 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,7n,93p,1258b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on base.pdf (22 pages, 2237314 bytes).
+Output written on base.pdf (23 pages, 2297813 bytes).
 PDF statistics:
- 318 PDF objects out of 1000 (max. 8388607)
- 68 named destinations out of 1000 (max. 500000)
- 212 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 325 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 500000)
+ 217 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,11 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1728338511.21479 "c:/Users/arlan/Workspace/Latex/CL/informe_5/CL_Informe_5_Arduino/base.tex" "base.pdf" "base" 1728338513.75779 0
+["pdflatex"] 1728339119.9487 "c:/Users/arlan/Workspace/Latex/CL/informe_5/CL_Informe_5_Arduino/base.tex" "base.pdf" "base" 1728339123.6747 0
   "0.Portada/portada.tex" 1728319569 949 c77c73be1119b0a1139ec04cd71aed65 ""
-  "1.MarcoTeorico/marcoteorico.tex" 1728338510 5506 caa425038a793c0a9faf8761b668c405 ""
+  "1.MarcoTeorico/marcoteorico.tex" 1728338599 5506 caa425038a793c0a9faf8761b668c405 ""
   "2.Introduccion/intro.tex" 1728337255 938 196f4dabd3c5bea0a3f0c7fec745a0ac ""
   "3.CuerpoDeTrabajo/3.1.ObjetivosGenerales/objGenerales.tex" 1728324449 229 e7a20da4d974c76cc89f8c8c69f09ea2 ""
   "3.CuerpoDeTrabajo/3.2.ObjetivosEspecificos/objEspecificos.tex" 1728324556 269 1fb73d713c8df022ccfd6377cd12d5a6 ""
-  "3.CuerpoDeTrabajo/3.3.Materiales/materiales.tex" 1728329378 144 8d2aecf4bcfa9ec3914b1ca6360a6b57 ""
+  "3.CuerpoDeTrabajo/3.3.Materiales/materiales.tex" 1728339114 304 0e6075bea37edd489d441e72ea98a63f ""
   "4.Desarrollo/4.1.CircuitosPropuestos/cirPropuestos.tex" 1728324848 450 0b9a36f037b37b6159cd4a8bb8369a73 ""
   "4.Desarrollo/4.2.CircuitosDesarrollados/cirDesarrollados.tex" 1728325300 817 3b4d87c348e24e95aa84f65333583ec3 ""
   "5.Cuestionario/5.1.Circuito9/cir9.tex" 1728328744 448 1d8338b0bf8846622d4620aa3c19cc79 ""
@@ -193,13 +193,14 @@
   "Imagenes/circPropuestos/cp_11.png" 1728323270 265650 c6c6914e346c154507676fdfe1ae6a38 ""
   "Imagenes/circPropuestos/cp_9.png" 1728323163 275786 b026861039a7138c15c5574708fe2aac ""
   "Imagenes/materiales/buzzer_activo.jpg" 1728325943 114647 ee0440e97e7e49288cf2296261090d9d ""
+  "Imagenes/materiales/resistor_10k.jpg" 1728338970 59167 2ce5e9e3cc9793e49fe321cb45e9a889 ""
   "Imagenes/utp/fisc.png" 1727056770 8337 6c3899861a2a551f9879979cbf49c3f9 ""
   "Imagenes/utp/utp.png" 1727056780 105799 7b0e6b2f101038bc9c781b83b7d99321 ""
-  "base.aux" 1728338513 4084 f06a69375bdfdc24960d81f72e4f462d "pdflatex"
-  "base.lof" 1728338513 1003 74a580dad1f807bdfd49c8a72b23c176 "pdflatex"
-  "base.out" 1728338513 2476 83b36168da7c770d62116cf74458751a "pdflatex"
+  "base.aux" 1728339123 4230 b573f41c7df2f7559334f92578b38290 "pdflatex"
+  "base.lof" 1728339123 1106 0d7c11a402ce7bf723ba9fad39281acb "pdflatex"
+  "base.out" 1728339123 2476 83b36168da7c770d62116cf74458751a "pdflatex"
   "base.tex" 1728328818 2822 34e3e33a93d08437135ac86c9ff9a879 ""
-  "base.toc" 1728338513 1363 55d5273603ca6d26b979556e12e07320 "pdflatex"
+  "base.toc" 1728339123 1365 383eae3cf3ba4ab4c4a782114adc1970 "pdflatex"
   "c:/Users/arlan/Workspace/Latex/CL/informe_5/CL_Informe_5_Arduino/base.tex" 1728328818 2822 34e3e33a93d08437135ac86c9ff9a879 ""
   (generated)
   "base.aux"

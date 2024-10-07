@@ -300,6 +300,8 @@ INPUT .\base.lof
 INPUT .\base.lof
 INPUT base.lof
 OUTPUT base.lof
+INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT .\1.MarcoTeorico\marcoteorico.tex
 INPUT .\1.MarcoTeorico\marcoteorico.tex
 INPUT 1.MarcoTeorico\marcoteorico.tex
@@ -310,8 +312,6 @@ INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmr12.tfm
 INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
-INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
-INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT .\2.Introduccion\intro.tex
 INPUT .\2.Introduccion\intro.tex
@@ -325,6 +325,13 @@ INPUT 3.CuerpoDeTrabajo\3.2.ObjetivosEspecificos\objEspecificos.tex
 INPUT .\3.CuerpoDeTrabajo\3.3.Materiales\materiales.tex
 INPUT .\3.CuerpoDeTrabajo\3.3.Materiales\materiales.tex
 INPUT 3.CuerpoDeTrabajo\3.3.Materiales\materiales.tex
+INPUT .\Imagenes\materiales\resistor_10k.jpg
+INPUT .\Imagenes\materiales\resistor_10k.jpg
+INPUT .\Imagenes\materiales\resistor_10k.jpg
+INPUT .\Imagenes\materiales\resistor_10k.jpg
+INPUT .\Imagenes\materiales\resistor_10k.jpg
+INPUT .\Imagenes\materiales\resistor_10k.jpg
+INPUT .\Imagenes\materiales\resistor_10k.jpg
 INPUT .\Imagenes\materiales\buzzer_activo.jpg
 INPUT .\Imagenes\materiales\buzzer_activo.jpg
 INPUT .\Imagenes\materiales\buzzer_activo.jpg
